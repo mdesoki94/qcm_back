@@ -1,1 +1,1 @@
-web: java -jar out\artifacts\quiz_backend_jar\quiz-backend.jar
+web: java -jar .out\artifacts\quiz_backend_jar\quiz-backend.jar
